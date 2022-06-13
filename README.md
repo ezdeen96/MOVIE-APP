@@ -31,14 +31,4 @@ Builds the app for production to the build folder.
 
      npm run build
     
-    
-## Author
-
-  Theelipan Prabakar - [www.theelipan.com](https://www.theelipan.com)
-
   Project Link: [https://festive-wilson-a51c32.netlify.app/](https://festive-wilson-a51c32.netlify.app/)
-  
-  
-## License
-  
-  Released under the MIT License.
